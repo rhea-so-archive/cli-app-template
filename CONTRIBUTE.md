@@ -60,36 +60,6 @@ Pull Request 방식이 익숙하시지 않은 분들은 issue 로 내용을 등�
 
 ---
 
-</br>
-
-## Labels for PR
-
-- Edit typos or links
-  - 오타 또는 잘못된 링크를 수정.
-- Inaccurate information
-  - 잘못된 정보에 대한 Fix.
-- New Resources
-  - 새로운 자료 추가
-
-### 그 외 Labels
-
-- Suggestions
-  - 해당 `Repository`에 건의하고 싶은 사항에 대해서 `Issue`로 등록해주세요.
-- Questions
-  - 질문이 있으시면 해당 Label 과 함께 `Issue`를 등록해주세요.
-
-</br>
-
-_Pull Request example>_
-
-## Edit typo or link path
-
-DataStructure Link 수정
-
-</br>
-
----
-
 ### ISSUE_TEMPLATE
 
 ```
